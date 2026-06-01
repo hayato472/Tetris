@@ -1,0 +1,27 @@
+﻿  テトリス.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(132,9): warning C4005: 'PASCAL': マクロが再定義されました。
+  (ソース ファイル 'テトリス.c' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\lmcons.h(45,9):
+      'PASCAL' の以前の定義を確認してください
+  
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(247,15): warning C4047: '関数': 間接参照のレベルが 'char *' と 'int (__cdecl *)(char *,Player)' で異なっています。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(247,15): warning C4024: 'printRanking': の型が 1 の仮引数および実引数と異なります。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(261,15): warning C4047: '関数': 間接参照のレベルが 'char *' と 'int (__cdecl *)(char *,Player)' で異なっています。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(261,15): warning C4024: 'printRanking': の型が 1 の仮引数および実引数と異なります。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(268,7): warning C4013: 関数 'kbhit' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(223,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(254,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(255,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(215,52): warning C4101: 'rankScore': ローカル変数は 1 度も使われていません。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(426,6): warning C4013: 関数 'checkRange' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(531,2): warning C4098: 'printNextBlock': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(621,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(638,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(640,30): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(655,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(656,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(657,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(664,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(673,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hayat\source\repos\完成テトリス\完成テトリス\テトリス.c(694,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  完成テトリス.vcxproj -> C:\Users\hayat\source\repos\完成テトリス\x64\Debug\完成テトリス.exe
